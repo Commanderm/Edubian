@@ -1,0 +1,2 @@
+# Edubian
+Educational Debian
